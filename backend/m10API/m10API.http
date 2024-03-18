@@ -1,0 +1,6 @@
+@m10API_HostAddress = http://localhost:5285
+
+GET {{m10API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
